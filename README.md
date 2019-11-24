@@ -29,7 +29,7 @@
 
 ```shell
  git clone https://github.com/natsuz0ra/SankakuDownloader.git
- cd SankakuDownloader
+ cd SankakuDownloader/MacOS_ver（此处根据你的系统选择）
  pip3 install -r requirements.txt
 ```
 - 待需要的包下载完毕后，点击[这里](https://github.com/aria2/aria2/releases/tag/release-1.35.0 "这里")下载MacOS版本的Aria2；
