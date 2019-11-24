@@ -24,11 +24,12 @@
 很遗憾，MacOS版目前还没有找到打包后就可以直接跑起来的方法，目前遇到无法启动aria2以及文件无法读取写入等问题，可能还需要一定的时间（也可能不会有，目前对MacOS软件的相关机制还完全不了解）。
 下面会介绍Python源码直接使用的方法，可能会比较繁琐 :（
 
-- [下载](https://github.com/natsuz0ra/SankakuDownloader/releases "下载")源码，解压后找到MacOS_ver文件夹；
-- 在终端里cd到MacOS_ver文件夹；
+- 安装git
 - 运行以下命令：
 
 ```shell
+ git clone https://github.com/natsuz0ra/SankakuDownloader.git
+ cd SankakuDownloader
  pip3 install -r requirements.txt
 ```
 - 待需要的包下载完毕后，点击[这里](https://github.com/aria2/aria2/releases/tag/release-1.35.0 "这里")下载MacOS版本的Aria2；
