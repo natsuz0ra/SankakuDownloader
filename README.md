@@ -14,6 +14,7 @@
 ![](https://github.com/natsuz0ra/SankakuDownloader/raw/master/win_example.png)
 
 从[这里](https://github.com/natsuz0ra/SankakuDownloader/releases "这里")下载打包好的版本即可，解压即可使用！
+如果需要从py源码运行可以参考下文，将命令中的3去掉即可（根据所配置的环境来）。
 
 ## MacOS版使用方法
 ![](https://github.com/natsuz0ra/SankakuDownloader/raw/master/mac_example.png)
